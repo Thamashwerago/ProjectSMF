@@ -1,0 +1,49 @@
+200116  8:11:26 [Note] Event Scheduler: Loaded 0 events
+200116  8:11:26 [Note] C:\Users\SJCStudent\Desktop\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200117  9:14:53 [Note] Event Scheduler: Loaded 0 events
+200117  9:14:53 [Note] C:\Users\SJCStudent\Desktop\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200117  9:17:14 [Note] Event Scheduler: Loaded 0 events
+200117  9:17:14 [Note] Z:\Web Project\TLTV.team\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200119 19:04:13 [Note] Event Scheduler: Loaded 0 events
+200119 19:04:13 [Note] F:\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200130  7:24:10 [Note] Event Scheduler: Loaded 0 events
+200130  7:24:10 [Note] F:\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200130  7:57:48 [Note] Event Scheduler: Loaded 0 events
+200130  7:57:48 [Note] F:\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200130 10:46:28 [Note] Event Scheduler: Loaded 0 events
+200130 10:46:28 [Note] F:\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200131 12:16:32 [Note] Event Scheduler: Loaded 0 events
+200131 12:16:32 [Note] F:\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200131 12:20:34  InnoDB: Error: in ALTER TABLE `smf`.`registration`
+InnoDB: has or is referenced in foreign key constraints
+InnoDB: which are not compatible with the new table definition.
+200131 12:20:34 [Warning] Invalid (old?) table or database name '#sql-30b8_21'
+200131 12:20:34  InnoDB: Error: table `smf`.`registration` does not exist in the InnoDB internal
+InnoDB: data dictionary though MySQL is trying to drop it.
+InnoDB: Have you copied the .frm file of the table to the
+InnoDB: MySQL database directory from another database?
+InnoDB: You can look for further help from
+InnoDB: http://dev.mysql.com/doc/refman/5.5/en/innodb-troubleshooting.html
+200205  7:15:23 [Note] Event Scheduler: Loaded 0 events
+200205  7:15:23 [Note] F:\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200210 13:46:08 [Note] Event Scheduler: Loaded 0 events
+200210 13:46:08 [Note] C:\Users\Thamash Weragoda\Desktop\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200210 17:20:41 [Note] Event Scheduler: Loaded 0 events
+200210 17:20:41 [Note] C:\Users\Thamash Weragoda\Desktop\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+200215 12:09:11 [Note] Event Scheduler: Loaded 0 events
+200215 12:09:11 [Note] D:\Thamash weragoda\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
+221012  9:11:49 [Note] Event Scheduler: Loaded 0 events
+221012  9:11:49 [Note] E:\project imposible\USBWebserver v8.5\8.5/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.5.20'  socket: ''  port: 3307  MySQL Community Server (GPL)
